@@ -40,6 +40,4 @@ npm run build:css
 
 BOOM 
 Now you're done to go  :)
-to ease your developement you can try 
-tailblocks, tailwindcomponents and so many stuffs
 
